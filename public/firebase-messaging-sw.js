@@ -6,12 +6,12 @@ importScripts("https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging-com
 
 // Configuration Firebase (identique à src/firebase.js)
 firebase.initializeApp({
-    apiKey: "AIzaSyCMXOEJOZ-91y06ay-B1BFj15rugYAOHgE",
-    authDomain: "visitorsystem-99758.firebaseapp.com",
-    projectId: "visitorsystem-99758",
-    storageBucket: "visitorsystem-99758.firebasestorage.app",
-    messagingSenderId: "884430603769",
-    appId: "1:884430603769:web:ec4c52ecb6803faca96928",
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
 });
 
 const messaging = firebase.messaging();
